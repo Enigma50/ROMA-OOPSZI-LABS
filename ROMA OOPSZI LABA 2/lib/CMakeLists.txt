@@ -1,0 +1,1 @@
+﻿add_library(tlib STATIC "task1.c" "task2.c")
